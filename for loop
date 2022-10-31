@@ -1,7 +1,7 @@
 total = 0;
 % 1 is the starting point
 % 3 is the end point
-
+%the increment is one
     for k = 1:3                                                                                                                                                                                                                                                                
         ;
         total = total + 2*k^2-k;
