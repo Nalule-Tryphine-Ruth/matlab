@@ -6,6 +6,7 @@ total = 0;
         ;
         total = total + 2*k^2-k;
         %the program displays the total of the loop
-    end    
+    end
+    %the end is the stop place for the loop
     total
     
