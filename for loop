@@ -1,3 +1,5 @@
+close all;
+clear all;
 total = 0;
 % 1 is the starting point
 % 3 is the end point
